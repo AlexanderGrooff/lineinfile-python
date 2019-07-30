@@ -20,7 +20,7 @@ The list of features supported in this adaptation is directly taken from the `li
 - [ ] Mode
 - [ ] Other
 - [ ] Owner
-- [ ] Regexp
+- [x] Regexp
 - [ ] Selevel
 - [ ] Serole
 - [ ] Setype
