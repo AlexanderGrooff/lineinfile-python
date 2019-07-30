@@ -30,7 +30,7 @@ The list of features supported in this adaptation is directly taken from the `li
 
 ## Development
 ```
-git clone 
-cd
+git clone git@github.com:AlexanderGrooff/lineinfile-python.git
+cd lineinfile-python
 mkvirtualenv -a . -p python3 $(basename $(pwd))
 ```
